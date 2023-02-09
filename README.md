@@ -8,3 +8,5 @@
 - 📫 How to reach me: ... https://linktr.ee/kojiro_asano
 - 😄 Pronouns: ... He/His/Him
 - ⚡ Fun fact: ...
+
+<img src="aws-certified-solutions-architect-associate.png" width="150"/>
